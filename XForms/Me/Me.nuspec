@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>MiProfile.Me.XForms</id>
+    <version>1.0.0</version>
+    <title>MiProfile</title>
+    <authors>Luis Alberto Pena Nunez</authors>
+    <owners>Luis Alberto Pena Nunez</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Hi there! Make sure to follow me on social media for follow up on projects.</description>
+    <copyright>Copyright ©  2017</copyright>
+    <projectUrl>https://github.com/LuisAlbertoPenaNunez</projectUrl>
+    <dependencies>
+      <dependency id="Xam.Plugins.Forms.ImageCircle" version="1.8.1" />
+      <dependency id="Xamarin.Forms" version="2.3.4.247" />
+    </dependencies>
+  </metadata>
+</package>
